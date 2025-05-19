@@ -65,10 +65,11 @@ The goal is to:
 | `Units Sold`         | Total number of items sold                               |
 | `Month`              | Month of transaction                                      |
 | `Year`               | Year of transaction                                       |
-| `Customer Segment`   | Type of customer (e.g., Government, Midmarket, etc.)      |
-| `Salesperson Age`    | Age category of salesperson (Youth, Adult, Elder, Old)    |
-| `Customer Country`   | Geographic region of customers                            |
-| `Customer Age category`       | Age group of customers (Youth, Adult, Elder, Old)         |
+| `Segment`            | Type of customer (e.g., Government, Midmarket, etc.)      |
+| `Discount Band`      | Type of discount on each order (None, Low, Medium, and High |
+| `Salesperson Age`    | Age category of salesperson                               |
+| `Country`            | Geographic region of customers                            |
+| `Salesperson Age category`       | Age group of customers (Youth, Adult, Elder, Old)|
 
 ---
 
